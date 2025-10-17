@@ -3,7 +3,7 @@
 // ========================
 
 import "./App.css";
-
+import "@fontsource/cairo";
 // React
 import { useEffect, useState } from "react";
 
