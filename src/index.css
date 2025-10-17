@@ -1,0 +1,15 @@
+body {
+
+  background-color:#0052d0 !important;
+
+  direction: rtl;
+  /* font-family: 'Cairo', sans-serif !important; */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+     /* font-family: 'Cairo', sans-serif; */
+}
